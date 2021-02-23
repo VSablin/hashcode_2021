@@ -6,3 +6,5 @@ suppressMessages(library(tidyr))
 suppressMessages(library(zoo))
 suppressMessages(library(tsibble))
 suppressMessages(library(data.table))
+
+cat("\n .Rprofile correctly executed. \n")
