@@ -1,6 +1,6 @@
 # %% -------------------------------------------------------------------
 # read input and create output dir
-str_data_set <- "a"
+str_data_set <- "b"
 
 dir_in <- file.path("data_out", str_data_set)
 
@@ -19,7 +19,8 @@ if (!dir.exists(dir_out)) {
 df_car_time <- data.frame(cars = 1:nrow(df_cars),
                           time = rep(NA, nrow(df_cars)))
 
-for (n in 1:length(df_car_time)) {
+n <- 1
+for (n in 1:dim(df_car_time)[1]) {
     int_streets <- str_split(df_cars[n, 1], "_") %>% unlist() %>% as.integer()
     df_car_time[n, "time"] <- dplyr::filter(df_streets, streetcode %in% int_streets)$L %>% sum()
 }
@@ -35,6 +36,8 @@ df_inter_out <- data.frame(inter_out = unique(df_streets$inter_out),
 conn <- file(description = file.path(dir_out, "out.txt"),
              open = "wt")
 
+writeLines(as.character(length(unique(df_streets$inter_out))), conn)
+
 n <- df_car_time$cars[1]
 for (n in df_car_time$cars) {
     int_streets <- str_split(df_cars[n, 1], "_") %>%
@@ -48,7 +51,8 @@ for (n in df_car_time$cars) {
             df_inter_out[df_inter_out$inter_out == int_inter_out, "included"] <-
                 TRUE
             writeLines(as.character(int_inter_out), conn)
-            writeLines(df_streetcode$streetname[df_streetcode$streetcode == m], conn)
+            writeLines("1", conn)
+            writeLines(paste0(df_streetcode$streetname[df_streetcode$streetcode == m], " 1"), conn)
         }
     }
 }

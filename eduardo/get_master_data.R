@@ -7,7 +7,7 @@
 
 time_start <- Sys.time()
 
-str_data_set <- "a"
+str_data_set <- "b"
 filename <- paste0(str_data_set, ".txt")
 str_path <- file.path("data-in", filename)
 
