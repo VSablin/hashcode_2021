@@ -1,3 +1,5 @@
-streets
-1_2_5_4
-3_5_1
+inter_out,streetcode
+0,1
+1,2_3
+3,4
+2,5

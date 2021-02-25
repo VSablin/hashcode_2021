@@ -122,7 +122,7 @@ for (n in num_inter_out) {
 }
 
 file_out <- file.path(dir_out, "inter_out_streetcode.csv")
-data.table::fwrite(df_cars, file_out)
+data.table::fwrite(df_outer_street, file_out)
 
 ################################################################################
 # %% ---------------------------------------------------------------------------
