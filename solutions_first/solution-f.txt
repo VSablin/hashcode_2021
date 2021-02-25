@@ -1,1357 +1,1357 @@
 1662
 1
 1
-ibb-b 1992
+a-b 1992
 2
 1
-cfg-c 1992
+b-c 1992
 0
 1
-bjc-a 1992
+c-a 1992
 3
 1
-hcj-d 1992
+c-d 1992
 4
 1
-bhh-e 1992
+d-e 1992
 5
 1
-bag-f 1992
+a-f 1992
 6
 1
-ig-g 1992
+a-g 1992
 7
 1
-fac-h 1992
+e-h 1992
 8
 1
-egj-i 1992
+g-i 1992
 9
 1
-faa-j 1992
+a-j 1992
 10
 1
-eic-ba 1992
+g-ba 1992
 11
 1
-je-bb 1992
+ba-bb 1992
 12
 1
-bjg-bc 1992
+h-bc 1992
 13
 1
-bgi-bd 1992
+h-bd 1992
 14
 1
-cjg-be 1992
+bc-be 1992
 15
 1
-def-bf 1992
+e-bf 1992
 16
 1
-ij-bg 1992
+b-bg 1992
 17
 1
-bee-bh 1992
+c-bh 1992
 18
 1
-f-bi 1992
+bg-bi 1992
 19
 1
-cja-bj 1992
+bc-bj 1992
 20
 1
-h-ca 1992
+c-ca 1992
 21
 1
-hch-cb 1992
+ba-cb 1992
 22
 1
-bgj-cc 1992
+ba-cc 1992
 23
 1
-gfa-cd 1992
+bh-cd 1992
 24
 1
-cdb-ce 1992
+f-ce 1992
 25
 1
-cbb-cf 1992
+i-cf 1992
 26
 1
-bd-cg 1992
+cf-cg 1992
 27
 1
-ddb-ch 1992
+ce-ch 1992
 28
 1
-ejg-ci 1992
+j-ci 1992
 29
 1
-ggb-cj 1992
+cg-cj 1992
 30
 1
-ccc-da 1992
+b-da 1992
 31
 1
-cja-db 1992
+bc-db 1992
 32
 1
-ecg-dc 1992
+ba-dc 1992
 33
 1
-ggj-dd 1992
+db-dd 1992
 34
 1
-gig-de 1992
+da-de 1992
 35
 1
-igi-df 1992
+ch-df 1992
 36
 1
-ffb-dg 1992
+f-dg 1992
 37
 1
-hh-dh 1992
+dc-dh 1992
 38
 1
-hj-di 1992
+cg-di 1992
 39
 1
-hfi-dj 1992
+cf-dj 1992
 40
 1
-bjj-ea 1992
+bi-ea 1992
 41
 1
-cgi-eb 1992
+h-eb 1992
 42
 1
-ege-ec 1992
+bd-ec 1992
 43
 1
-ech-ed 1992
+bj-ed 1992
 44
 1
-eab-ee 1992
+dd-ee 1992
 45
 1
-ige-ef 1992
+cj-ef 1992
 46
 1
-cb-eg 1992
+bb-eg 1992
 47
 1
-cgc-eh 1992
+c-eh 1992
 48
 1
-dff-ei 1992
+ed-ei 1992
 49
 1
-ece-ej 1992
+ca-ej 1992
 50
 1
-cic-fa 1992
+cc-fa 1992
 51
 1
-dfa-fb 1992
+bd-fb 1992
 52
 1
-cgb-fc 1992
+j-fc 1992
 53
 1
-daf-fd 1992
+j-fd 1992
 54
 1
-f-fe 1992
+bc-fe 1992
 55
 1
-dbd-ff 1992
+fe-ff 1992
 56
 1
-iej-fg 1992
+cj-fg 1992
 57
 1
-fc-fh 1992
+d-fh 1992
 58
 1
-bbd-fi 1992
+di-fi 1992
 59
 1
-cfj-fj 1992
+dc-fj 1992
 60
 1
-eah-ga 1992
+cg-ga 1992
 61
 1
-dbf-gb 1992
+fe-gb 1992
 62
 1
-dci-gc 1992
+e-gc 1992
 63
 1
-eia-gd 1992
+eg-gd 1992
 64
 1
-dcf-ge 1992
+cc-ge 1992
 65
 1
-ehh-gf 1992
+cd-gf 1992
 66
 1
-bh-gg 1992
+gf-gg 1992
 67
 1
-ed-gh 1992
+dc-gh 1992
 68
 1
-fjh-gi 1992
+cc-gi 1992
 69
 1
-edh-gj 1992
+cb-gj 1992
 70
 1
-db-ha 1992
+ef-ha 1992
 71
 1
-bec-hb 1992
+ba-hb 1992
 72
 1
-j-hc 1992
+gg-hc 1992
 73
 1
-iib-hd 1992
+ch-hd 1992
 74
 1
-bgi-he 1992
+d-he 1992
 75
 1
-bbd-hf 1992
+i-hf 1992
 76
 1
-ij-hg 1992
+ga-hg 1992
 77
 1
-cae-hh 1992
+f-hh 1992
 78
 1
-bcg-hi 1992
+fa-hi 1992
 79
 1
-cja-hj 1992
+gd-hj 1992
 80
 1
-ccc-ia 1992
+bc-ia 1992
 81
 1
-fj-ib 1992
+hg-ib 1992
 82
 1
-ba-ic 1992
+ia-ic 1992
 83
 1
-bf-id 1992
+ej-id 1992
 84
 1
-gda-ie 1992
+fb-ie 1992
 85
 1
-bfh-if 1992
+cc-if 1992
 86
 1
-ebj-ig 1992
+cb-ig 1992
 87
 1
-cgh-ih 1992
+gi-ih 1992
 88
 1
-ed-ii 1992
+ic-ii 1992
 89
 1
-bcd-ij 1992
+cb-ij 1992
 90
 1
-dg-ja 1992
+eg-ja 1992
 91
 1
-ehj-jb 1992
+cc-jb 1992
 92
 1
-cbh-jc 1992
+fg-jc 1992
 93
 1
-cbi-jd 1992
+gj-jd 1992
 94
 1
-dji-je 1992
+de-je 1992
 95
 1
-dfc-jf 1992
+bc-jf 1992
 96
 1
-egi-jg 1992
+dd-jg 1992
 97
 1
-icb-jh 1992
+eg-jh 1992
 98
 1
-fi-ji 1992
+ii-ji 1992
 99
 1
-egi-jj 1992
+gh-jj 1992
 100
 1
-bfg-baa 1992
+ef-baa 1992
 101
 1
-jb-bab 1992
+j-bab 1992
 102
 1
-dce-bac 1992
+ge-bac 1992
 103
 1
-ecc-bad 1992
+bb-bad 1992
 104
 1
-djb-bae 1992
+cd-bae 1992
 105
 1
-bcb-baf 1992
+be-baf 1992
 106
 1
-ede-bag 1992
+db-bag 1992
 107
 1
-deg-bah 1992
+ej-bah 1992
 108
 1
-bda-bai 1992
+bd-bai 1992
 109
 1
-eg-baj 1992
+ef-baj 1992
 110
 1
-gdc-bba 1992
+dg-bba 1992
 111
 1
-dcb-bbb 1992
+ed-bbb 1992
 112
 1
-di-bbc 1992
+dc-bbc 1992
 113
 1
-gca-bbd 1992
+gg-bbd 1992
 114
 1
-gb-bbe 1992
+cc-bbe 1992
 115
 1
-bia-bbf 1992
+ej-bbf 1992
 116
 1
-cbd-bbg 1992
+cj-bbg 1992
 117
 1
-beb-bbh 1992
+bd-bbh 1992
 118
 1
-dga-bbi 1992
+hf-bbi 1992
 119
 1
-cgj-bbj 1992
+cc-bbj 1992
 120
 1
-ei-bca 1992
+hc-bca 1992
 121
 1
-bdb-bcb 1992
+ia-bcb 1992
 122
 1
-hig-bcc 1992
+bah-bcc 1992
 123
 1
-ddj-bcd 1992
+bd-bcd 1992
 124
 1
-fih-bce 1992
+ia-bce 1992
 125
 1
-fh-bcf 1992
+bba-bcf 1992
 126
 1
-di-bcg 1992
+baj-bcg 1992
 127
 1
-gad-bch 1992
+h-bch 1992
 128
 1
-fbb-bci 1992
+bbc-bci 1992
 129
 1
-eac-bcj 1992
+bbf-bcj 1992
 130
 1
-fbe-bda 1992
+bcj-bda 1992
 131
 1
-bhb-bdb 1992
+gf-bdb 1992
 132
 1
-fee-bdc 1992
+hb-bdc 1992
 133
 1
-chi-bdd 1992
+bcf-bdd 1992
 134
 1
-fgf-bde 1992
+db-bde 1992
 135
 1
-ccd-bdf 1992
+hc-bdf 1992
 136
 1
-bcc-bdg 1992
+ja-bdg 1992
 137
 1
-ce-bdh 1992
+cb-bdh 1992
 138
 1
-ich-bdi 1992
+bdh-bdi 1992
 139
 1
-dgd-bdj 1992
+fb-bdj 1992
 140
 1
-ggg-bea 1992
+bcj-bea 1992
 141
 1
-fe-beb 1992
+fi-beb 1992
 142
 1
-ddg-bec 1992
+bj-bec 1992
 143
 1
-db-bed 1992
+g-bed 1992
 144
 1
-cfb-bee 1992
+cg-bee 1992
 145
 1
-dai-bef 1992
+ba-bef 1992
 146
 1
-fei-beg 1992
+ej-beg 1992
 147
 1
-bab-beh 1992
+hi-beh 1992
 148
 1
-fge-bei 1992
+bch-bei 1992
 149
 1
-dbi-bej 1992
+bj-bej 1992
 150
 1
-cdf-bfa 1992
+dh-bfa 1992
 151
 1
-fda-bfb 1992
+fi-bfb 1992
 152
 1
-fda-bfc 1992
+he-bfc 1992
 153
 1
-haa-bfd 1992
+baj-bfd 1992
 154
 1
-ccc-bfe 1992
+jb-bfe 1992
 155
 1
-bhh-bff 1992
+gc-bff 1992
 156
 1
-hj-bfg 1992
+bef-bfg 1992
 157
 1
-if-bfh 1992
+gg-bfh 1992
 158
 1
-cbb-bfi 1992
+gc-bfi 1992
 159
 1
-gif-bfj 1992
+bg-bfj 1992
 160
 1
-efe-bga 1992
+bdh-bga 1992
 161
 1
-dff-bgb 1992
+bdb-bgb 1992
 162
 1
-cff-bgc 1992
+fd-bgc 1992
 163
 1
-f-bgd 1992
+bi-bgd 1992
 164
 1
-eih-bge 1992
+gj-bge 1992
 165
 1
-hha-bgf 1992
+bfb-bgf 1992
 166
 1
-hhh-bgg 1992
+j-bgg 1992
 167
 1
-ddb-bgh 1992
+fc-bgh 1992
 168
 1
-ebb-bgi 1992
+ja-bgi 1992
 169
 1
-hbh-bgj 1992
+ij-bgj 1992
 170
 1
-bff-bha 1992
+fh-bha 1992
 171
 1
-gjg-bhb 1992
+baj-bhb 1992
 172
 1
-edf-bhc 1992
+bch-bhc 1992
 173
 1
-ih-bhd 1992
+bcb-bhd 1992
 174
 1
 ee-bhe 1992
 175
 1
-bhj-bhf 1992
+bef-bhf 1992
 176
 1
-cjh-bhg 1992
+j-bhg 1992
 177
 1
-igc-bhh 1992
+bfb-bhh 1992
 178
 1
-f-bhi 1992
+bi-bhi 1992
 179
 1
-ghd-bhj 1992
+hg-bhj 1992
 180
 1
-bgc-bia 1992
+ci-bia 1992
 181
 1
-hjj-bib 1992
+bbb-bib 1992
 182
 1
-hdc-bic 1992
+ea-bic 1992
 183
 1
-dec-bid 1992
+gg-bid 1992
 184
 1
-eig-bie 1992
+bbc-bie 1992
 185
 1
-bd-bif 1992
+hb-bif 1992
 186
 1
-dig-big 1992
+bfg-big 1992
 187
 1
-dcf-bih 1992
+bc-bih 1992
 188
 1
-dcj-bii 1992
+bgc-bii 1992
 189
 1
-ejj-bij 1992
+jd-bij 1992
 190
 1
-chc-bja 1992
+fh-bja 1992
 191
 1
-beh-bjb 1992
+je-bjb 1992
 192
 1
-dfe-bjc 1992
+bdh-bjc 1992
 193
 1
-dfc-bjd 1992
+di-bjd 1992
 194
 1
 cj-bje 1992
 195
 1
-cjg-bjf 1992
+gh-bjf 1992
 196
 1
-cec-bjg 1992
+ee-bjg 1992
 197
 1
-cd-bjh 1992
+fc-bjh 1992
 198
 1
 de-bji 1992
 199
 1
-bdb-bjj 1992
+bjh-bjj 1992
 200
 1
-bgi-caa 1992
+di-caa 1992
 201
 1
-bef-cab 1992
+bej-cab 1992
 202
 1
-bce-cac 1992
+c-cac 1992
 203
 1
-bah-cad 1992
+bdg-cad 1992
 204
 1
-bea-cae 1992
+baa-cae 1992
 205
 1
-hee-caf 1992
+bc-caf 1992
 206
 1
-bfb-cag 1992
+bbg-cag 1992
 207
 1
-ih-cah 1992
+bdj-cah 1992
 208
 1
-cfi-cai 1992
+bid-cai 1992
 209
 1
-bj-caj 1992
+jh-caj 1992
 210
 1
-dhd-cba 1992
+bcj-cba 1992
 211
 1
-dch-cbb 1992
+ca-cbb 1992
 212
 1
-gdg-cbc 1992
+fe-cbc 1992
 213
 1
-eag-cbd 1992
+gf-cbd 1992
 214
 1
-hfj-cbe 1992
+bcj-cbe 1992
 215
 1
-ega-cbf 1992
+bai-cbf 1992
 216
 1
-hjj-cbg 1992
+bdg-cbg 1992
 217
 1
-gea-cbh 1992
+cba-cbh 1992
 218
 1
-ejg-cbi 1992
+bcc-cbi 1992
 219
 1
-cgb-cbj 1992
+db-cbj 1992
 220
 1
-hbb-cca 1992
+cc-cca 1992
 221
 1
-ddd-ccb 1992
+bci-ccb 1992
 222
 1
-fij-ccc 1992
+bba-ccc 1992
 223
 1
-ecd-ccd 1992
+cai-ccd 1992
 224
 1
-bdc-cce 1992
+ba-cce 1992
 225
 1
-djg-ccf 1992
+bdh-ccf 1992
 226
 1
-ib-ccg 1992
+bih-ccg 1992
 227
 1
-bhe-cch 1992
+cae-cch 1992
 228
 1
-haf-cci 1992
+bgd-cci 1992
 229
 1
-gdf-ccj 1992
+cch-ccj 1992
 230
 1
-jae-cda 1992
+dd-cda 1992
 231
 1
-bji-cdb 1992
+bie-cdb 1992
 232
 1
-eb-cdc 1992
+bbc-cdc 1992
 233
 1
-fj-cdd 1992
+db-cdd 1992
 234
 1
-bcg-cde 1992
+bdj-cde 1992
 235
 1
-ggg-cdf 1992
+bc-cdf 1992
 236
 1
-gcf-cdg 1992
+bdf-cdg 1992
 237
 1
-bgj-cdh 1992
+cbf-cdh 1992
 238
 1
-fib-cdi 1992
+ee-cdi 1992
 239
 1
-fgh-cdj 1992
+gd-cdj 1992
 240
 1
-gbi-cea 1992
+if-cea 1992
 241
 1
 bch-ceb 1992
 242
 1
-bbc-cec 1992
+jj-cec 1992
 243
 1
-cah-ced 1992
+ff-ced 1992
 244
 1
-eec-cee 1992
+cbf-cee 1992
 245
 1
-jh-cef 1992
+fc-cef 1992
 246
 1
-iag-ceg 1992
+ced-ceg 1992
 247
 1
-eeg-ceh 1992
+bje-ceh 1992
 248
 1
-ehj-cei 1992
+bfb-cei 1992
 249
 1
-ef-cej 1992
+bda-cej 1992
 250
 1
-dch-cfa 1992
+cj-cfa 1992
 251
 1
-cea-cfb 1992
+fc-cfb 1992
 252
 1
-dah-cfc 1992
+dd-cfc 1992
 253
 1
-geb-cfd 1992
+fe-cfd 1992
 254
 1
-ijc-cfe 1992
+fh-cfe 1992
 255
 1
-bji-cff 1992
+bgc-cff 1992
 256
 1
-eif-cfg 1992
+bfa-cfg 1992
 257
 1
-cid-cfh 1992
+cbc-cfh 1992
 258
 1
-chd-cfi 1992
+bed-cfi 1992
 259
 1
-cg-cfj 1992
+bd-cfj 1992
 260
 1
-cgd-cga 1992
+dh-cga 1992
 261
 1
-dhd-cgb 1992
+bec-cgb 1992
 262
 1
-cef-cgc 1992
+bba-cgc 1992
 263
 1
-dcj-cgd 1992
+caj-cgd 1992
 264
 1
-cci-cge 1992
+ie-cge 1992
 265
 1
-gie-cgf 1992
+hd-cgf 1992
 266
 1
 bii-cgg 1992
 267
 1
-faj-cgh 1992
+bgg-cgh 1992
 268
 1
-djh-cgi 1992
+hc-cgi 1992
 269
 1
-cjb-cgj 1992
+ig-cgj 1992
 270
 1
-dee-cha 1992
+cbb-cha 1992
 271
 1
 bfi-chb 1992
 272
 1
-gfj-chc 1992
+cdc-chc 1992
 273
 1
-ebh-chd 1992
+ch-chd 1992
 274
 1
-dej-che 1992
+cfj-che 1992
 275
 1
-ddj-chf 1992
+cbb-chf 1992
 276
 1
-egi-chg 1992
+cfg-chg 1992
 277
 1
 ed-chh 1992
 278
 1
-ibj-chi 1992
+if-chi 1992
 279
 1
-ffc-chj 1992
+i-chj 1992
 280
 1
-eff-cia 1992
+bji-cia 1992
 281
 1
 ed-cib 1992
 282
 1
-ifd-cic 1992
+bbi-cic 1992
 283
 1
-bii-cid 1992
+bdh-cid 1992
 284
 1
 cgj-cie 1992
 285
 1
-idd-cif 1992
+id-cif 1992
 286
 1
-hbj-cig 1992
+be-cig 1992
 287
 1
-gid-cih 1992
+cda-cih 1992
 288
 1
-gf-cii 1992
+eh-cii 1992
 289
 1
-fdj-cij 1992
+bgi-cij 1992
 290
 1
-dge-cja 1992
+j-cja 1992
 291
 1
-dbc-cjb 1992
+d-cjb 1992
 292
 1
-ci-cjc 1992
+bce-cjc 1992
 293
 1
 cde-cjd 1992
 294
 1
-cea-cje 1992
+bbi-cje 1992
 295
 1
-jh-cjf 1992
+che-cjf 1992
 296
 1
-cgb-cjg 1992
+fb-cjg 1992
 297
 1
-da-cjh 1992
+bii-cjh 1992
 298
 1
-jbd-cji 1992
+c-cji 1992
 299
 1
 cc-cjj 1992
 300
 1
-edd-daa 1992
+ja-daa 1992
 301
 1
-icf-dab 1992
+bia-dab 1992
 302
 1
-fgc-dac 1992
+de-dac 1992
 303
 1
-ceb-dad 1992
+dab-dad 1992
 304
 1
-gdh-dae 1992
+bba-dae 1992
 305
 1
-bch-daf 1992
+bfg-daf 1992
 306
 1
-eb-dag 1992
+dc-dag 1992
 307
 1
-ihj-dah 1992
+bgj-dah 1992
 308
 1
-ehg-dai 1992
+ba-dai 1992
 309
 1
-ebb-daj 1992
+bac-daj 1992
 310
 1
-bca-dba 1992
+ij-dba 1992
 311
 1
-je-dbb 1992
+daa-dbb 1992
 312
 1
-he-dbc 1992
+cac-dbc 1992
 313
 1
-bbg-dbd 1992
+bfg-dbd 1992
 314
 1
-cb-dbe 1992
+cid-dbe 1992
 315
 1
-eef-dbf 1992
+bf-dbf 1992
 316
 1
-bac-dbg 1992
+dab-dbg 1992
 317
 1
-gfj-dbh 1992
+a-dbh 1992
 318
 1
-eia-dbi 1992
+bgh-dbi 1992
 319
 1
-dad-dbj 1992
+cgb-dbj 1992
 320
 1
-dda-dca 1992
+bba-dca 1992
 321
 1
-efg-dcb 1992
+bec-dcb 1992
 322
 1
-ge-dcc 1992
+baa-dcc 1992
 323
 1
-gjc-dcd 1992
+jg-dcd 1992
 324
 1
-cce-dce 1992
+bcg-dce 1992
 325
 1
-bcg-dcf 1992
+ceh-dcf 1992
 326
 1
-ii-dcg 1992
+bfi-dcg 1992
 327
 1
-dh-dch 1992
+cai-dch 1992
 328
 1
-cge-dci 1992
+bbe-dci 1992
 329
 1
-ha-dcj 1992
+bde-dcj 1992
 330
 1
 dai-dda 1992
 331
 1
-h-ddb 1992
+cjb-ddb 1992
 332
 1
-ia-ddc 1992
+beg-ddc 1992
 333
 1
 bci-ddd 1992
 334
 1
-edb-dde 1992
+gi-dde 1992
 335
 1
 ej-ddf 1992
 336
 1
-dcd-ddg 1992
+cji-ddg 1992
 337
 1
-ech-ddh 1992
+bf-ddh 1992
 338
 1
-fib-ddi 1992
+bgh-ddi 1992
 339
 1
-ecg-ddj 1992
+fj-ddj 1992
 340
 1
-ib-dea 1992
+bci-dea 1992
 341
 1
-ig-deb 1992
+eg-deb 1992
 342
 1
-bg-dec 1992
+ba-dec 1992
 343
 1
-fbh-ded 1992
+dch-ded 1992
 344
 1
-fee-dee 1992
+gh-dee 1992
 345
 1
-cci-def 1992
+hd-def 1992
 346
 1
-cbb-deg 1992
+cdh-deg 1992
 347
 1
-bhi-deh 1992
+ccj-deh 1992
 348
 1
-ejj-dei 1992
+bbh-dei 1992
 349
 1
-fgh-dej 1992
+ea-dej 1992
 350
 1
-haa-dfa 1992
+bbb-dfa 1992
 351
 1
-bed-dfb 1992
+ji-dfb 1992
 352
 1
 ddc-dfc 1992
 353
 1
-gcb-dfd 1992
+bga-dfd 1992
 354
 1
-egf-dfe 1992
+gc-dfe 1992
 355
 1
-egc-dff 1992
+jh-dff 1992
 356
 1
-dac-dfg 1992
+cdj-dfg 1992
 357
 1
-cji-dfh 1992
+cbg-dfh 1992
 358
 1
-bbh-dfi 1992
+cic-dfi 1992
 359
 1
-djc-dfj 1992
+eb-dfj 1992
 360
 1
 gg-dga 1992
 361
 1
-cad-dgb 1992
+bbg-dgb 1992
 362
 1
-fcj-dgc 1992
+bc-dgc 1992
 363
 1
-feh-dgd 1992
+dbh-dgd 1992
 364
 1
-ifc-dge 1992
+ce-dge 1992
 365
 1
-dbe-dgf 1992
+eg-dgf 1992
 366
 1
 dce-dgg 1992
 367
 1
-bai-dgh 1992
+big-dgh 1992
 368
 1
-bbf-dgi 1992
+cgg-dgi 1992
 369
 1
-eea-dgj 1992
+bcc-dgj 1992
 370
 1
-dhg-dha 1992
+d-dha 1992
 371
 1
-cbi-dhb 1992
+hh-dhb 1992
 372
 1
-ffi-dhc 1992
+jg-dhc 1992
 373
 1
-gid-dhd 1992
+b-dhd 1992
 374
 1
 df-dhe 1992
 375
 1
-bcf-dhf 1992
+fh-dhf 1992
 376
 1
 dbj-dhg 1992
 377
 1
-bbh-dhh 1992
+bfj-dhh 1992
 378
 1
-ebh-dhi 1992
+dha-dhi 1992
 379
 1
-fce-dhj 1992
+daj-dhj 1992
 380
 1
-bad-dia 1992
+hg-dia 1992
 381
 1
-bgg-dib 1992
+cfd-dib 1992
 382
 1
 hc-dic 1992
 383
 1
-ccj-did 1992
+ei-did 1992
 384
 1
-daa-die 1992
+bgh-die 1992
 385
 1
-gg-dif 1992
+cfc-dif 1992
 386
 1
-edj-dig 1992
+bbf-dig 1992
 387
 1
 dah-dih 1992
 388
 1
-bhf-dii 1992
+c-dii 1992
 389
 1
-bid-dij 1992
+ceh-dij 1992
 390
 1
-ja-dja 1992
+cba-dja 1992
 391
 1
-ffj-djb 1992
+bei-djb 1992
 392
 1
 cii-djc 1992
 393
 1
-ceb-djd 1992
+cie-djd 1992
 394
 1
-f-dje 1992
+he-dje 1992
 395
 1
-fig-djf 1992
+cii-djf 1992
 396
 1
-bga-djg 1992
+baa-djg 1992
 397
 1
-bif-djh 1992
+bdh-djh 1992
 398
 1
-cic-dji 1992
+cha-dji 1992
 399
 1
 caj-djj 1992
 400
 1
-ghi-eaa 1992
+dbj-eaa 1992
 401
 1
-gdb-eab 1992
+ha-eab 1992
 402
 1
 bcc-eac 1992
 403
 1
-caf-ead 1992
+dcg-ead 1992
 404
 1
-ibc-eae 1992
+chb-eae 1992
 405
 1
 jc-eaf 1992
 406
 1
-ca-eag 1992
+bge-eag 1992
 407
 1
-gfd-eah 1992
+cgd-eah 1992
 408
 1
-ffa-eai 1992
+cdb-eai 1992
 409
 1
 c-eaj 1992
 410
 1
-feb-eba 1992
+cee-eba 1992
 411
 1
 dc-ebb 1992
 412
 1
-ecb-ebc 1992
+cbi-ebc 1992
 413
 1
-ejb-ebd 1992
+cag-ebd 1992
 414
 1
 bib-ebe 1992
 415
 1
-bbd-ebf 1992
+cge-ebf 1992
 416
 1
-fga-ebg 1992
+dcf-ebg 1992
 417
 1
-ecj-ebh 1992
+daf-ebh 1992
 418
 1
-ebc-ebi 1992
+ebd-ebi 1992
 419
 1
-ghd-ebj 1992
+bcc-ebj 1992
 420
 1
-cce-eca 1992
+bhh-eca 1992
 421
 1
 bdd-ecb 1992
 422
 1
-jc-ecc 1992
+cd-ecc 1992
 423
 1
-igh-ecd 1992
+dch-ecd 1992
 424
 1
 ecd-ece 1992
 425
 1
-egi-ecf 1992
+dh-ecf 1992
 426
 1
-bbe-ecg 1992
+bf-ecg 1992
 427
 1
-fcf-ech 1992
+cbe-ech 1992
 428
 1
-jac-eci 1992
+dh-eci 1992
 429
 1
-fbc-ecj 1992
+baj-ecj 1992
 430
 1
-ghj-eda 1992
+cei-eda 1992
 431
 1
-eci-edb 1992
+ff-edb 1992
 432
 1
-ggi-edc 1992
+bhb-edc 1992
 433
 1
-ebd-edd 1992
+bai-edd 1992
 434
 1
-ejb-ede 1992
+gd-ede 1992
 435
 1
-dic-edf 1992
+bfh-edf 1992
 436
 1
 bgd-edg 1992
 437
 1
-dje-edh 1992
+dah-edh 1992
 438
 1
-cfj-edi 1992
+ic-edi 1992
 439
 1
-cfb-edj 1992
+cgc-edj 1992
 440
 1
-gd-eea 1992
+bi-eea 1992
 441
 1
-iac-eeb 1992
+dec-eeb 1992
 442
 1
-bha-eec 1992
+bch-eec 1992
 443
 1
-cbj-eed 1992
+cah-eed 1992
 444
 1
-idg-eee 1992
+eea-eee 1992
 445
 1
 ceg-eef 1992
 446
 1
-fi-eeg 1992
+dda-eeg 1992
 447
 1
-bcc-eeh 1992
+jd-eeh 1992
 448
 1
-dhb-eei 1992
+bbf-eei 1992
 449
 1
 chc-eej 1992
 450
 1
-efd-efa 1992
+ii-efa 1992
 451
 1
 cfh-efb 1992
@@ -1360,133 +1360,133 @@ cfh-efb 1992
 bhh-efc 1992
 453
 1
-dha-efd 1992
+bbc-efd 1992
 454
 1
 bbe-efe 1992
 455
 1
-chj-eff 1992
+dga-eff 1992
 456
 1
 chg-efg 1992
 457
 1
-fde-efh 1992
+bij-efh 1992
 458
 1
-icc-efi 1992
+eed-efi 1992
 459
 1
-gde-efj 1992
+efe-efj 1992
 460
 1
 cb-ega 1992
 461
 1
-hic-egb 1992
+efi-egb 1992
 462
 1
-ddc-egc 1992
+bdj-egc 1992
 463
 1
-ebd-egd 1992
+bbf-egd 1992
 464
 1
-bg-ege 1992
+ecb-ege 1992
 465
 1
-cha-egf 1992
+bji-egf 1992
 466
 1
-eaj-egg 1992
+die-egg 1992
 467
 1
-gah-egh 1992
+jc-egh 1992
 468
 1
-hef-egi 1992
+cdi-egi 1992
 469
 1
-ibi-egj 1992
+ij-egj 1992
 470
 1
-eid-eha 1992
+bfh-eha 1992
 471
 1
-bfc-ehb 1992
+bh-ehb 1992
 472
 1
-ecj-ehc 1992
+cdh-ehc 1992
 473
 1
-hcb-ehd 1992
+dfd-ehd 1992
 474
 1
 di-ehe 1992
 475
 1
-fag-ehf 1992
+caa-ehf 1992
 476
 1
-f-ehg 1992
+ddb-ehg 1992
 477
 1
-gcc-ehh 1992
+dad-ehh 1992
 478
 1
-bag-ehi 1992
+h-ehi 1992
 479
 1
-hbj-ehj 1992
+ee-ehj 1992
 480
 1
 ddb-eia 1992
 481
 1
-ehj-eib 1992
+cfc-eib 1992
 482
 1
-fhi-eic 1992
+gd-eic 1992
 483
 1
 hc-eid 1992
 484
 1
-gbb-eie 1992
+cah-eie 1992
 485
 1
-bhf-eif 1992
+djj-eif 1992
 486
 1
-dci-eig 1992
+ede-eig 1992
 487
 1
-cag-eih 1992
+efh-eih 1992
 488
 1
 bgb-eii 1992
 489
 1
-igd-eij 1992
+bje-eij 1992
 490
 1
-hgg-eja 1992
+dhh-eja 1992
 491
 1
 cdi-ejb 1992
 492
 1
-eia-ejc 1992
+bag-ejc 1992
 493
 1
 cef-ejd 1992
 494
 1
-ebj-eje 1992
+dib-eje 1992
 495
 1
-bgb-ejf 1992
+cbe-ejf 1992
 496
 1
 eb-ejg 1992
@@ -1495,31 +1495,31 @@ eb-ejg 1992
 ecj-ejh 1992
 498
 1
-ee-eji 1992
+cgh-eji 1992
 499
 1
-eia-ejj 1992
+bbf-ejj 1992
 500
 1
-dhg-faa 1992
+bch-faa 1992
 501
 1
-gd-fab 1992
+dbf-fab 1992
 502
 1
-hdh-fac 1992
+hf-fac 1992
 503
 1
-cfh-fad 1992
+dih-fad 1992
 504
 1
-bbd-fae 1992
+dje-fae 1992
 505
 1
-ghj-faf 1992
+bjf-faf 1992
 506
 1
-eji-fag 1992
+bgc-fag 1992
 507
 1
 bjf-fah 1992
@@ -1528,73 +1528,73 @@ bjf-fah 1992
 bcj-fai 1992
 509
 1
-fgi-faj 1992
+faa-faj 1992
 510
 1
-bic-fba 1992
+jj-fba 1992
 511
 1
-hjh-fbb 1992
+efj-fbb 1992
 512
 1
-bb-fbc 1992
+bib-fbc 1992
 513
 1
-hej-fbd 1992
+bih-fbd 1992
 514
 1
-ii-fbe 1992
+if-fbe 1992
 515
 1
 dhj-fbf 1992
 516
 1
-dff-fbg 1992
+bhb-fbg 1992
 517
 1
-fgb-fbh 1992
+cff-fbh 1992
 518
 1
 cfg-fbi 1992
 519
 1
-fdc-fbj 1992
+hb-fbj 1992
 520
 1
-i-fca 1992
+dgh-fca 1992
 521
 1
-dff-fcb 1992
+ebe-fcb 1992
 522
 1
-gbd-fcc 1992
+dcg-fcc 1992
 523
 1
-gf-fcd 1992
+bfi-fcd 1992
 524
 1
-gdj-fce 1992
+efh-fce 1992
 525
 1
 ejd-fcf 1992
 526
 1
-ibg-fcg 1992
+cie-fcg 1992
 527
 1
-ceb-fch 1992
+beh-fch 1992
 528
 1
-ghf-fci 1992
+dhf-fci 1992
 529
 1
-fcg-fcj 1992
+egd-fcj 1992
 530
 1
-bhi-fda 1992
+bhj-fda 1992
 531
 1
-dcg-fdb 1992
+ccf-fdb 1992
 532
 1
 dad-fdc 1992
@@ -1603,31 +1603,31 @@ dad-fdc 1992
 de-fdd 1992
 534
 1
-jj-fde 1992
+egb-fde 1992
 535
 1
-cgg-fdf 1992
+fbj-fdf 1992
 536
 1
-gbh-fdg 1992
+if-fdg 1992
 537
 1
-dff-fdh 1992
+cjd-fdh 1992
 538
 1
 bh-fdi 1992
 539
 1
-ggc-fdj 1992
+e-fdj 1992
 540
 1
 caf-fea 1992
 541
 1
-ejf-feb 1992
+big-feb 1992
 542
 1
-cff-fec 1992
+cjg-fec 1992
 543
 1
 bjf-fed 1992
@@ -1639,61 +1639,61 @@ bfh-fee 1992
 h-fef 1992
 546
 1
-ihh-feg 1992
+bhg-feg 1992
 547
 1
-daj-feh 1992
+bch-feh 1992
 548
 1
-fbi-fei 1992
+cff-fei 1992
 549
 1
-hhe-fej 1992
+b-fej 1992
 550
 1
-jba-ffa 1992
+df-ffa 1992
 551
 1
-cbd-ffb 1992
+dab-ffb 1992
 552
 1
-bgc-ffc 1992
+bdj-ffc 1992
 553
 1
-jaf-ffd 1992
+efd-ffd 1992
 554
 1
-ghg-ffe 1992
+bgj-ffe 1992
 555
 1
-fgj-fff 1992
+edi-fff 1992
 556
 1
 cca-ffg 1992
 557
 1
-cfa-ffh 1992
+ehi-ffh 1992
 558
 1
-efg-ffi 1992
+cgb-ffi 1992
 559
 1
-i-ffj 1992
+dfd-ffj 1992
 560
 1
-bfh-fga 1992
+cie-fga 1992
 561
 1
 chd-fgb 1992
 562
 1
-jad-fgc 1992
+eg-fgc 1992
 563
 1
-fb-fgd 1992
+dij-fgd 1992
 564
 1
-dah-fge 1992
+bfg-fge 1992
 565
 1
 def-fgf 1992
@@ -1708,34 +1708,34 @@ dbh-fgh 1992
 efc-fgi 1992
 569
 1
-gbh-fgj 1992
+egh-fgj 1992
 570
 1
-cej-fha 1992
+bfi-fha 1992
 571
 1
-cbf-fhb 1992
+feb-fhb 1992
 572
 1
-dg-fhc 1992
+cba-fhc 1992
 573
 1
-ec-fhd 1992
+cej-fhd 1992
 574
 1
-gge-fhe 1992
+ei-fhe 1992
 575
 1
-dh-fhf 1992
+dhj-fhf 1992
 576
 1
-jbb-fhg 1992
+da-fhg 1992
 577
 1
-fde-fhh 1992
+cba-fhh 1992
 578
 1
-bja-fhi 1992
+eh-fhi 1992
 579
 1
 ii-fhj 1992
@@ -1747,43 +1747,43 @@ jd-fia 1992
 dcg-fib 1992
 582
 1
-ijd-fic 1992
+cif-fic 1992
 583
 1
-fh-fid 1992
+ejh-fid 1992
 584
 1
 efe-fie 1992
 585
 1
-bbc-fif 1992
+fj-fif 1992
 586
 1
-dec-fig 1992
+bjc-fig 1992
 587
 1
-bcc-fih 1992
+ed-fih 1992
 588
 1
-fce-fii 1992
+bje-fii 1992
 589
 1
-ebj-fij 1992
+fdf-fij 1992
 590
 1
-ge-fja 1992
+cih-fja 1992
 591
 1
-cij-fjb 1992
+egg-fjb 1992
 592
 1
 dbg-fjc 1992
 593
 1
-cde-fjd 1992
+cec-fjd 1992
 594
 1
-hci-fje 1992
+fba-fje 1992
 595
 1
 did-fjf 1992
@@ -1795,13 +1795,13 @@ bhg-fjg 1992
 fdf-fjh 1992
 598
 1
-ehf-fji 1992
+ejc-fji 1992
 599
 1
 fib-fjj 1992
 600
 1
-gjf-gaa 1992
+cdd-gaa 1992
 601
 1
 ca-gab 1992
@@ -1813,34 +1813,34 @@ cca-gac 1992
 bf-gad 1992
 604
 1
-cfd-gae 1992
+cfi-gae 1992
 605
 1
-bjh-gaf 1992
+cig-gaf 1992
 606
 1
-gii-gag 1992
+dgc-gag 1992
 607
 1
-cjc-gah 1992
+dji-gah 1992
 608
 1
-gff-gai 1992
+daa-gai 1992
 609
 1
 ccf-gaj 1992
 610
 1
-hgc-gba 1992
+dah-gba 1992
 611
 1
-efh-gbb 1992
+fab-gbb 1992
 612
 1
-ga-gbc 1992
+bbh-gbc 1992
 613
 1
-gca-gbd 1992
+cdf-gbd 1992
 614
 1
 fcj-gbe 1992
@@ -1855,37 +1855,37 @@ dga-gbg 1992
 dje-gbh 1992
 618
 1
-jd-gbi 1992
+ej-gbi 1992
 619
 1
-fih-gbj 1992
+cai-gbj 1992
 620
 1
-gfd-gca 1992
+ddd-gca 1992
 621
 1
 dj-gcb 1992
 622
 1
-gih-gcc 1992
+che-gcc 1992
 623
 1
-egf-gcd 1992
+ja-gcd 1992
 624
 1
-de-gce 1992
+bfh-gce 1992
 625
 1
 daf-gcf 1992
 626
 1
-haa-gcg 1992
+gbh-gcg 1992
 627
 1
-ggd-gch 1992
+eja-gch 1992
 628
 1
-gid-gci 1992
+fdc-gci 1992
 629
 1
 cde-gcj 1992
@@ -1897,22 +1897,22 @@ dha-gda 1992
 bii-gdb 1992
 632
 1
-hjf-gdc 1992
+gbe-gdc 1992
 633
 1
-bic-gdd 1992
+dgb-gdd 1992
 634
 1
 cjg-gde 1992
 635
 1
-cbe-gdf 1992
+bhc-gdf 1992
 636
 1
-db-gdg 1992
+dcd-gdg 1992
 637
 1
-iih-gdh 1992
+big-gdh 1992
 638
 1
 fde-gdi 1992
@@ -1921,10 +1921,10 @@ fde-gdi 1992
 gh-gdj 1992
 640
 1
-eda-gea 1992
+eaa-gea 1992
 641
 1
-cfh-geb 1992
+eff-geb 1992
 642
 1
 ffc-gec 1992
@@ -1936,7 +1936,7 @@ ccj-ged 1992
 dda-gee 1992
 645
 1
-gfh-gef 1992
+dad-gef 1992
 646
 1
 dcg-geg 1992
@@ -1951,13 +1951,13 @@ he-gei 1992
 bge-gej 1992
 650
 1
-hbc-gfa 1992
+dcg-gfa 1992
 651
 1
 g-gfb 1992
 652
 1
-ccf-gfc 1992
+bcb-gfc 1992
 653
 1
 gch-gfd 1992
@@ -1966,34 +1966,34 @@ gch-gfd 1992
 bif-gfe 1992
 655
 1
-cge-gff 1992
+cda-gff 1992
 656
 1
-gee-gfg 1992
+cef-gfg 1992
 657
 1
-bi-gfh 1992
+bji-gfh 1992
 658
 1
 ech-gfi 1992
 659
 1
-ejh-gfj 1992
+dgd-gfj 1992
 660
 1
-j-gga 1992
+bhe-gga 1992
 661
 1
-eae-ggb 1992
+bgj-ggb 1992
 662
 1
-iea-ggc 1992
+id-ggc 1992
 663
 1
 bge-ggd 1992
 664
 1
-gaj-gge 1992
+cjh-gge 1992
 665
 1
 bad-ggf 1992
@@ -2005,10 +2005,10 @@ caf-ggg 1992
 cab-ggh 1992
 668
 1
-jag-ggi 1992
+beh-ggi 1992
 669
 1
-idj-ggj 1992
+cfa-ggj 1992
 670
 1
 cgi-gha 1992
@@ -2020,7 +2020,7 @@ bcg-ghb 1992
 efi-ghc 1992
 673
 1
-cba-ghd 1992
+did-ghd 1992
 674
 1
 cji-ghe 1992
@@ -2032,40 +2032,40 @@ fhh-ghf 1992
 fhb-ghg 1992
 677
 1
-hib-ghh 1992
+gdc-ghh 1992
 678
 1
-cic-ghi 1992
+bge-ghi 1992
 679
 1
-fdb-ghj 1992
+eig-ghj 1992
 680
 1
-ied-gia 1992
+ccg-gia 1992
 681
 1
 ehj-gib 1992
 682
 1
-gge-gic 1992
+fed-gic 1992
 683
 1
-ddg-gid 1992
+ejh-gid 1992
 684
 1
 ha-gie 1992
 685
 1
-dfb-gif 1992
+gdf-gif 1992
 686
 1
-gj-gig 1992
+cec-gig 1992
 687
 1
 fic-gih 1992
 688
 1
-hgg-gii 1992
+edf-gii 1992
 689
 1
 bei-gij 1992
@@ -2077,13 +2077,13 @@ fha-gja 1992
 ebc-gjb 1992
 692
 1
-hji-gjc 1992
+hg-gjc 1992
 693
 1
 bji-gjd 1992
 694
 1
-eca-gje 1992
+b-gje 1992
 695
 1
 dig-gjf 1992
@@ -2107,10 +2107,10 @@ bjj-haa 1992
 gc-hab 1992
 702
 1
-gdb-hac 1992
+gid-hac 1992
 703
 1
-jc-had 1992
+gh-had 1992
 704
 1
 fac-hae 1992
@@ -2122,19 +2122,19 @@ gic-haf 1992
 dfg-hag 1992
 707
 1
-ghg-hah 1992
+dcd-hah 1992
 708
 1
 bfh-hai 1992
 709
 1
-ggj-haj 1992
+gj-haj 1992
 710
 1
 gee-hba 1992
 711
 1
-cfb-hbb 1992
+eee-hbb 1992
 712
 1
 ffc-hbc 1992
@@ -2146,10 +2146,10 @@ eij-hbd 1992
 fji-hbe 1992
 715
 1
-dga-hbf 1992
+fcf-hbf 1992
 716
 1
-ife-hbg 1992
+gde-hbg 1992
 717
 1
 dbj-hbh 1992
@@ -2161,22 +2161,22 @@ egd-hbi 1992
 ghc-hbj 1992
 720
 1
-cib-hca 1992
+g-hca 1992
 721
 1
-faf-hcb 1992
+cha-hcb 1992
 722
 1
 cfe-hcc 1992
 723
 1
-hhf-hcd 1992
+cf-hcd 1992
 724
 1
 gfj-hce 1992
 725
 1
-b-hcf 1992
+cih-hcf 1992
 726
 1
 ja-hcg 1992
@@ -2188,19 +2188,19 @@ fci-hch 1992
 geh-hci 1992
 729
 1
-eec-hcj 1992
+bbe-hcj 1992
 730
 1
 eda-hda 1992
 731
 1
-jh-hdb 1992
+fei-hdb 1992
 732
 1
 cbi-hdc 1992
 733
 1
-cih-hdd 1992
+ejb-hdd 1992
 734
 1
 gdj-hde 1992
@@ -2212,22 +2212,22 @@ fad-hdf 1992
 eba-hdg 1992
 737
 1
-ihb-hdh 1992
+fec-hdh 1992
 738
 1
 hca-hdi 1992
 739
 1
-eci-hdj 1992
+bci-hdj 1992
 740
 1
 fdf-hea 1992
 741
 1
-bji-heb 1992
+fab-heb 1992
 742
 1
-beh-hec 1992
+edd-hec 1992
 743
 1
 ffe-hed 1992
@@ -2242,16 +2242,16 @@ beg-hef 1992
 ceb-heg 1992
 747
 1
-ecf-heh 1992
+fcj-heh 1992
 748
 1
-if-hei 1992
+ie-hei 1992
 749
 1
-cec-hej 1992
+gcc-hej 1992
 750
 1
-dei-hfa 1992
+dgc-hfa 1992
 751
 1
 ghg-hfb 1992
@@ -2260,16 +2260,16 @@ ghg-hfb 1992
 gab-hfc 1992
 753
 1
-bad-hfd 1992
+ddc-hfd 1992
 754
 1
 dfb-hfe 1992
 755
 1
-hge-hff 1992
+gfh-hff 1992
 756
 1
-ij-hfg 1992
+gfd-hfg 1992
 757
 1
 eci-hfh 1992
@@ -2287,7 +2287,7 @@ eah-hga 1992
 gig-hgb 1992
 762
 1
-hje-hgc 1992
+dej-hgc 1992
 763
 1
 ccc-hgd 1992
@@ -2296,13 +2296,13 @@ ccc-hgd 1992
 efg-hge 1992
 765
 1
-fea-hgf 1992
+bci-hgf 1992
 766
 1
 ddc-hgg 1992
 767
 1
-bad-hgh 1992
+chd-hgh 1992
 768
 1
 hah-hgi 1992
@@ -2314,19 +2314,19 @@ bji-hgj 1992
 ii-hha 1992
 771
 1
-dfa-hhb 1992
+fj-hhb 1992
 772
 1
-iad-hhc 1992
+gha-hhc 1992
 773
 1
 ch-hhd 1992
 774
 1
-fcd-hhe 1992
+gja-hhe 1992
 775
 1
-ed-hhf 1992
+bbc-hhf 1992
 776
 1
 bcd-hhg 1992
@@ -2356,19 +2356,19 @@ cjh-hid 1992
 bjg-hie 1992
 785
 1
-idh-hif 1992
+fje-hif 1992
 786
 1
 gb-hig 1992
 787
 1
-ddh-hih 1992
+eii-hih 1992
 788
 1
 fej-hii 1992
 789
 1
-hag-hij 1992
+fj-hij 1992
 790
 1
 fae-hja 1992
@@ -2380,22 +2380,22 @@ ddi-hjb 1992
 hcc-hjc 1992
 793
 1
-jb-hjd 1992
+fef-hjd 1992
 794
 1
 bfd-hje 1992
 795
 1
-iae-hjf 1992
+dj-hjf 1992
 796
 1
-igd-hjg 1992
+cfa-hjg 1992
 797
 1
 caj-hjh 1992
 798
 1
-hfj-hji 1992
+bba-hji 1992
 799
 1
 bgc-hjj 1992
@@ -2410,7 +2410,7 @@ cdh-iab 1992
 eic-iac 1992
 803
 1
-d-iad 1992
+cba-iad 1992
 804
 1
 cib-iae 1992
@@ -2425,16 +2425,16 @@ gj-iag 1992
 fei-iah 1992
 808
 1
-gf-iai 1992
+jh-iai 1992
 809
 1
-bc-iaj 1992
+gbh-iaj 1992
 810
 1
 bcb-iba 1992
 811
 1
-iha-ibb 1992
+gec-ibb 1992
 812
 1
 egb-ibc 1992
@@ -2443,13 +2443,13 @@ egb-ibc 1992
 cig-ibd 1992
 814
 1
-jbe-ibe 1992
+fba-ibe 1992
 815
 1
 dje-ibf 1992
 816
 1
-cbf-ibg 1992
+efj-ibg 1992
 817
 1
 hhf-ibh 1992
@@ -2479,7 +2479,7 @@ hgi-ice 1992
 cih-icf 1992
 826
 1
-gcg-icg 1992
+bjj-icg 1992
 827
 1
 djd-ich 1992
@@ -2491,7 +2491,7 @@ edh-ici 1992
 hbe-icj 1992
 830
 1
-jbh-ida 1992
+hee-ida 1992
 831
 1
 fce-idb 1992
@@ -2506,7 +2506,7 @@ fj-idd 1992
 dcd-ide 1992
 835
 1
-dh-idf 1992
+ha-idf 1992
 836
 1
 ic-idg 1992
@@ -2515,7 +2515,7 @@ ic-idg 1992
 bad-idh 1992
 838
 1
-gab-idi 1992
+ie-idi 1992
 839
 1
 bcc-idj 1992
@@ -2524,22 +2524,22 @@ bcc-idj 1992
 chb-iea 1992
 841
 1
-igj-ieb 1992
+bab-ieb 1992
 842
 1
-hfh-iec 1992
+dhh-iec 1992
 843
 1
 f-ied 1992
 844
 1
-bgj-iee 1992
+efc-iee 1992
 845
 1
 jc-ief 1992
 846
 1
-hcd-ieg 1992
+ebg-ieg 1992
 847
 1
 bjg-ieh 1992
@@ -2569,7 +2569,7 @@ fhh-ife 1992
 fb-iff 1992
 856
 1
-hdh-ifg 1992
+cjh-ifg 1992
 857
 1
 cbf-ifh 1992
@@ -2581,7 +2581,7 @@ ejg-ifi 1992
 chb-ifj 1992
 860
 1
-iij-iga 1992
+gfj-iga 1992
 861
 1
 gb-igb 1992
@@ -2590,7 +2590,7 @@ gb-igb 1992
 eaf-igc 1992
 863
 1
-ha-igd 1992
+ife-igd 1992
 864
 1
 dbi-ige 1992
@@ -2608,7 +2608,7 @@ hag-igh 1992
 gag-igi 1992
 869
 1
-bj-igj 1992
+gih-igj 1992
 870
 1
 hgf-iha 1992
@@ -2626,7 +2626,7 @@ ddf-ihd 1992
 hdi-ihe 1992
 875
 1
-ijj-ihf 1992
+eh-ihf 1992
 876
 1
 gbf-ihg 1992
@@ -2659,7 +2659,7 @@ bec-iie 1992
 hif-iif 1992
 886
 1
-hcg-iig 1992
+cde-iig 1992
 887
 1
 hbj-iih 1992

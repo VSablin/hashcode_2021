@@ -1,4 +1,6 @@
-str_data_set <- "f"
+str_data_set <- "e"
+args <- commandArgs(trailingOnly = TRUE)
+str_data_set <- args[[1]]
 
 
 ################################################################################
@@ -13,7 +15,6 @@ df_streets <- readRDS(file_streets)
 
 file_streets <- file.path(dir_in, "streets_code_and_names.rds")
 df_street_codes <- readRDS(file_streets)
-
 
 # in
 filename <- paste0(str_data_set, ".txt")
@@ -30,6 +31,8 @@ V <- as.integer(str_quantities[4])
 F <- as.integer(str_quantities[5])
 
 
+
+
 ################################################################################
 # %% ---------------------------------------------------------------------------
 # get number of intersections
@@ -39,6 +42,25 @@ int_num_inter <- df_inter %>% nrow()
 
 df_streets <- df_streets %>%
               select(inter_out, streetcode)
+
+
+################################################################################
+# %% ---------------------------------------------------------------------------
+# get num of cars on each street
+
+file_cars <- file.path(dir_in, "cars.rds")
+df_cars <- readRDS(file_cars)
+
+x <- 1
+cc <- c()
+for (x in seq(1, nrow(df_cars))) {
+    y <- as.integer(strsplit(x = df_cars[x, ], split = "_")[[1]])
+    cc <- append(cc, y)
+}
+#dd <- as.data.frame(cc)
+dd <- as.data.frame(table(cc))
+names(dd) <- c("streetcode", "num_cars")
+dd <- dd %>% mutate(streetcode = as.integer(streetcode))
 
 
 ################################################################################
@@ -65,7 +87,20 @@ for (loop_inter in df_inter$inter_out) {
     streets <- df_streets %>%
                dplyr::filter(inter_out == loop_inter) %>%
                select(streetcode)
-    street_loop <- streets[1, 1]
+
+    # find out the street with more cars
+    head(streets)
+    head(dd)
+    streetS <- streets %>%
+               left_join(dd, by = "streetcode") %>%
+               dplyr::filter(num_cars == max(num_cars, na.rm = TRUE))
+
+    if (is.na(streetS[1, 1])) {
+        street_loop <- streets[1, 1]
+    } else {
+        street_loop <- streetS[1, 1]
+    }
+
 
     street_loop_name <- df_street_codes %>%
                         dplyr::filter(streetcode == street_loop) %>%
