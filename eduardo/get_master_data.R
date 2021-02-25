@@ -107,6 +107,26 @@ saveRDS(df_cars, file_out)
 ################################################################################
 # %% ---------------------------------------------------------------------------
 
+cat("\n Mapping inter_out to streetcode")
+
+num_inter_out <- df_streets$inter_out %>%
+    unique()
+
+df_outer_street <- data.frame(inter_out = num_inter_out,
+                              streetcode = rep(NA, length(num_inter_out)))
+
+n <- 0
+for (n in num_inter_out) {
+    df_outer_street[df_outer_street$inter_out == n, "streetcode"] <-
+        paste0(dplyr::filter(df_streets, inter_out == n)$streetcode, collapse = "_")
+}
+
+file_out <- file.path(dir_out, "inter_out_streetcode.csv")
+data.table::fwrite(df_cars, file_out)
+
+################################################################################
+# %% ---------------------------------------------------------------------------
+
 time_end <- Sys.time()
 dt <- difftime(time_end, time_start, unit = "mins")
 cat("\nTime: ", dt, "\n")
