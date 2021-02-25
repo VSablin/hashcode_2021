@@ -63,8 +63,8 @@ for (x in 1:S) {
 file_out <- file.path(dir_out, "streets.csv")
 data.table::fwrite(df_streets, file_out)
 
-
-df_streets$streetcode <- seq(from = 1, to = S, by = 1)
+# ??????
+# df_streets$streetcode <- seq(from = 1, to = S, by = 1)
 
 file_out <- file.path(dir_out, "streets_code_and_names.csv")
 data.table::fwrite(df_streets_codename, file_out)
@@ -92,8 +92,8 @@ for (x in 1:V) {
     y <- str_cars[[x]]
     str <- unlist(str_split(string = y, pattern = " "))
     df_str <- data.frame(streetname = str[-1], stringsAsFactors = FALSE)
-    df_car_streets <- df_streets_codename %>%
-                      right_join(df_str, by = "streetname") %>%
+    df_car_streets <- df_str %>%
+                      left_join(df_streets_codename, by = "streetname") %>%
                       select(streetcode)
 
     df_cars[x, "streets"] <- paste(df_car_streets$streetcode, collapse = "_")
