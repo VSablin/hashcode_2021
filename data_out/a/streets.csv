@@ -1,6 +1,6 @@
-inter_in,inter_out,name,L
-2,0,rue-de-londres,1
-0,1,rue-d-amsterdam,1
-3,1,rue-d-athenes,1
-2,3,rue-de-rome,2
-1,2,rue-de-moscou,3
+inter_in,inter_out,streetcode,L
+2,0,1,1
+0,1,2,1
+3,1,3,1
+2,3,4,2
+1,2,5,3
