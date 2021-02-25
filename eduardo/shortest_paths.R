@@ -1,6 +1,6 @@
 # %% -------------------------------------------------------------------
 # read input and create output dir
-str_data_set <- "b"
+str_data_set <- "d"
 
 dir_in <- file.path("data_out", str_data_set)
 
@@ -36,7 +36,7 @@ df_inter_out <- data.frame(inter_out = unique(df_streets$inter_out),
 conn <- file(description = file.path(dir_out, "out.txt"),
              open = "wt")
 
-writeLines(as.character(length(unique(df_streets$inter_out))), conn)
+# writeLines(as.character(length(unique(df_streets$inter_out))), conn)
 
 n <- df_car_time$cars[1]
 for (n in df_car_time$cars) {
@@ -58,3 +58,21 @@ for (n in df_car_time$cars) {
 }
 
 close(conn)
+
+conn1 <- file(description = file.path(dir_out, "out.txt"),
+              open = "r")
+
+str_pre <- readLines(con = conn1)
+
+close(conn1)
+
+conn2 <- file(description = file.path(dir_out, "out_r.txt"),
+              open = "wt")
+
+writeLines(as.character(sum(df_inter_out$included)), conn2)
+
+for (str_i in str_pre) {
+    writeLines(str_i, con = conn2)
+}
+
+close(conn2)
